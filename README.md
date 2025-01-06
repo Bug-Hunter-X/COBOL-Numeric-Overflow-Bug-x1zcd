@@ -1,0 +1,1 @@
+This repository demonstrates a common COBOL programming error: numeric overflow.  The `bug.cob` file contains a program that fails to gracefully handle exceeding the maximum value of a numeric field. The `bugSolution.cob` file provides a corrected version.
